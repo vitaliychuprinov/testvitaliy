@@ -1,0 +1,2 @@
+# testvitaliy
+setting up git
